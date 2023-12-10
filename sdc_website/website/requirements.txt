@@ -1,0 +1,11 @@
+joblib
+asgiref
+Django
+pytz
+sqlparse
+mysqlclient
+pandas
+faker
+scikit-learn
+gensim
+numpy
